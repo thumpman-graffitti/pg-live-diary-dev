@@ -282,8 +282,9 @@
   { "id": "280", "title": "SETOUCHI BOYS", "type": "z", "album": "種", "ruby": "SETOUCHI BOYS" },
   { "id": "281", "title": "デッサン#4", "type": "z", "album": "種", "ruby": "てっさん#4" },
   { "id": "282", "title": "はっさくんのテーマ", "type": "z", "album": "未発売", "ruby": "はっさくんのてーま" },
-  { "id": "283", "title": "マスク・ド・カメロ", "type": "z", "album": "未発売", "ruby": "ますく・と・かめろ" },
-  { "id": "284", "title": "スペースヴァンガード", "type": "z", "album": "未発売", "ruby": "すへーすうぁんかーと" },
-  { "id": "285", "title": "Plastic viper", "type": "z", "album": "未発売", "ruby": "Plastic viper" },
-  { "id": "286", "title": "残響", "type": "z", "album": "未発売", "ruby": "さんきょう" }
+  { "id": "283", "title": "マスク・ド・カメロ", "type": "a", "album": "果実", "ruby": "ますく・と・かめろ" },
+  { "id": "284", "title": "スペース・ヴァンガード", "type": "a", "album": "果実", "ruby": "すへーす・うぁんかーと" },
+  { "id": "285", "title": "Plastic viper", "type": "a", "album": "果実", "ruby": "Plastic viper" },
+  { "id": "286", "title": "残響", "type": "a", "album": "果実", "ruby": "さんきょう" },
+  { "id": "287", "title": "内緒のしょ", "type": "a", "album": "果実", "ruby": "ないしょのしょ" }
 ]
